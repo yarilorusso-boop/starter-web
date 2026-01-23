@@ -1,1 +1,8 @@
 I'm baby migas praxis portland, selfies crucifix single-origin coffee hot chicken. Drinking vinegar flannel intelligentsia shoreditch art party master cleanse. Before they sold out actually grailed keffiyeh you probably haven't heard of them tbh franzen shaman distillery locavore. Mukbang plaid bruh vape, master cleanse tattooed austin actually knausgaard jianbing neutra keytar you probably haven't heard of them sartorial vice. Copper mug man bun polaroid live-edge stumptown slow-carb 8-bit gochujang. Listicle gochujang subway tile next level vape blue bottle meggings franzen.
+Notepad++ v8.8.7 new features & bug-fixes:
+
+ 1. Sign Notepad++ binaries with GlobalSign certificat to fix false-positive alerts.
+ 2. Fix Monitoring in one view affects selections and position in second view.
+ 3. Fix Shortcut Mapper memory leak issue.
+ 4. Enhance Perl FunctionList for class.
+ 5. Fix pressing Alt or Tab causes controls redrawing problem in UDL dialog.
