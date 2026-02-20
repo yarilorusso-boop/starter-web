@@ -1,6 +1,6 @@
 # Starter Web PROJECT
 
-
+Aggiorno il file per automatic merge
 ## INTRODUCTION
 
 This repository is for showing how Git and GitHub work together
